@@ -1,0 +1,149 @@
+{
+    "portfolio": [
+        {
+            "name": "Genai Mobile",
+            "thumbnail": "assets/01/thumbnail.png",
+            "tools": [
+                "figma"
+            ],
+            "multiple": true,
+            "mobile": true,
+            "images": [
+                "assets/01/onboarding.png",
+                "assets/01/home.png"
+            ]
+        },
+        {
+            "name": "Genai Admin",
+            "thumbnail": "assets/02/thumbnail.png",
+            "tools": [
+                "figma"
+            ],
+            "multiple": true,
+            "images": [
+                "assets/02/screen1.jpg",
+                "assets/02/screen2.jpg",
+                "assets/02/screen3.png",
+                "assets/02/screen4.png",
+                "assets/02/screen5.png"
+            ]
+        },
+        {
+            "name": "Genai Landing Page",
+            "thumbnail": "assets/03/thumbnail.png",
+            "space": 0,
+            "bg": "#F9F9F9",
+            "tools": [
+                "figma"
+            ],
+            "images": [
+                "assets/03/screen1.jpg",
+                "assets/03/screen2.png",
+                "assets/03/screen3.png",
+                "assets/03/screen4.png"
+            ]
+        },
+        {
+            "name": "Genai Landing Page V2",
+            "thumbnail": "assets/04/thumbnail.png",
+            "space": 0,
+            "bg": "#F9F9F9",
+            "tools": [
+                "figma"
+            ],
+            "images": [
+                "assets/04/screen1.png",
+                "assets/04/screen2.png",
+                "assets/04/screen3.png",
+                "assets/04/screen4.png"
+            ]
+        },
+        {
+            "name": "Genai Landing Page V3",
+            "thumbnail": "assets/06/thumbnail.png",
+         "multiple": true,
+            "mobile": true,
+            "tools": [
+                "figma"
+            ],
+            "images": [
+                "assets/06/screen1.png",
+                "assets/06/screen2.png",
+                "assets/06/screen3.png"
+            ]
+        },
+        {
+            "name": "Emotions Landing",
+            "thumbnail": "assets/07/thumbnail.png",
+    
+          
+            "bg":"#020618",
+            "tools": [
+                "figma"
+            ],
+            "images": [
+                "assets/07/screen1.png",
+                "assets/07/screen2.png",
+                "assets/07/screen3.png",
+                "assets/07/screen4.png",
+                "assets/07/screen5.png",
+                "assets/07/screen6.png"
+            ]
+        },
+          {
+            "name": "Online Silver",
+            "thumbnail": "assets/09/thumbnail.png",
+            "space":0,
+            "tools": [
+                "figma"
+            ],
+            "images": [
+                "assets/09/screen1.png",
+                "assets/09/screen2.png",
+                "assets/09/screen3.png",
+                "assets/09/screen4.png",
+                "assets/09/screen5.png",
+                "assets/09/screen6.png",
+                "assets/09/screen7.png"
+            ]
+        },
+         {
+            "name": "VSA Player Profile",
+            "thumbnail": "assets/10/thumbnail.png",
+            "space":0,
+            "tools": [
+                "figma"
+            ],
+            "images": [
+                "assets/10/screen0.png",
+                "assets/10/screen1.png",
+                "assets/10/screen2.png",
+                "assets/10/screen3.png",
+                "assets/10/screen4.png",
+                "assets/10/screen5.png",
+                "assets/10/screen6.png",
+                "assets/10/screen7.png",
+                "assets/10/screen8.png"
+            ]
+        },
+         {
+            "name": "MSRsilver Mobile",
+            "thumbnail": "assets/11/thumbnail.png",
+             "multiple":true,
+            "mobile":true,
+            "tools": [
+                "figma"
+            ],
+            "images": [ 
+                "assets/11/screen1.png",
+                "assets/11/screen2.png",
+                "assets/11/screen3.png",
+                "assets/11/screen4.png",
+                "assets/11/screen5.png",
+                "assets/11/screen6.png",
+                "assets/11/screen7.png",
+                "assets/11/screen8.png"
+            ]
+        }
+    ]
+}
